@@ -1,5 +1,5 @@
 {
-    "name": "Button Test",
+    "name": "PIN Code",
     "description": "",
     "dependencies": {
         "core": "*",
